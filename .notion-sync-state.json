@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "notes": [
+    {
+      "page_url": "https://app.notion.com/p/3e495109422d80d5bef9d1c29437e9e2",
+      "title": "服务器基础",
+      "section": "开发环境与服务器",
+      "path": "Notes/基础/服务器基础.md",
+      "notion_last_edited": "2026-09-24T02:17:51.945Z",
+      "content_sha": "848f2eaf7078921be4b2bdcc3b86c23d9b5aeb51"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e495109422d81a79ff8d4095582ee2b",
+      "title": "SSH 与文件传输",
+      "section": "开发环境与服务器",
+      "path": "Notes/基础/SSH与文件传输.md",
+      "notion_last_edited": "2026-09-23T16:47:11.044Z",
+      "content_sha": "ae55975d99a93bdc544ef06d2ae07766eeee5d3c"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e495109422d8133a9aed421855793a2",
+      "title": "Linux 基础",
+      "section": "开发环境与服务器",
+      "path": "Notes/基础/Linux基础.md",
+      "notion_last_edited": "2026-09-23T16:47:10.189Z",
+      "content_sha": "6d7e3f93a4956a1a16009f140092908a4feb7336"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e595109422d80a6a231cbc4feb2dbf9",
+      "title": "Git 基础",
+      "section": "开发环境与服务器",
+      "path": "Notes/基础/Git基础.md",
+      "notion_last_edited": "2026-09-24T07:19:18.151Z",
+      "content_sha": "97f6df5d8fe9b19608bf76eef6d716cbb9b729b6"
+    }
+  ]
+}

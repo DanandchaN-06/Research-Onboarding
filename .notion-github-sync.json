@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "repository": "DanandchaN-06/Research-Onboarding",
+  "branch": "main",
+  "notion": {
+    "data_source": "collection://019c1133-ebf2-48ac-b3de-3364a5c576bd",
+    "title_property": "笔记",
+    "path_property": "GitHub 路径",
+    "category_property": "分类",
+    "status_property": "状态",
+    "ready_values": [
+      "已掌握"
+    ],
+    "sync_property": "同步到 GitHub",
+    "last_edited_property": "最后编辑"
+  },
+  "paths": {
+    "state": ".notion-sync-state.json",
+    "readme": "README.md",
+    "assets_template": "{note_dir}/assets/{note_stem}"
+  },
+  "readme": {
+    "start_marker": "<!-- NOTES_INDEX:START -->",
+    "end_marker": "<!-- NOTES_INDEX:END -->",
+    "section_by_category": {
+      "服务器与 Linux": "开发环境与服务器",
+      "Git 与 GitHub": "开发环境与服务器",
+      "深度学习": "深度学习",
+      "PyTorch": "深度学习与 PyTorch",
+      "计算机视觉": "计算机视觉",
+      "视觉 SLAM": "视觉 SLAM",
+      "论文阅读": "论文阅读",
+      "周记": "周记",
+      "其他": "其他"
+    }
+  }
+}

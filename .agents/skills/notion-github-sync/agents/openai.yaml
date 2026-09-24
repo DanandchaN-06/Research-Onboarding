@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notion GitHub Sync"
+  short_description: "Safely publish Notion notes to a GitHub repository"
+  default_prompt: "Use $notion-github-sync to publish all Notion notes marked for GitHub sync."
