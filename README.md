@@ -1,15 +1,46 @@
-# Research-Onboarding
-Notes, exercises, code practice, and progress logs for undergraduate research preparation.
 
-## Current Stage
-  当前阶段：开发环境学习
+# Research Onboarding
 
-## Progress
-- [x]   A：通用开发环境与科研工具
-  - [x]   A1. Python 基础
-  - [x]   A2. Linux 基础
-  - [x]   A3. Git / GitHub 版本管理
-  - [x]   A4. 常用科研网站
-  - [x]   A5. 科研与编程软件
+本科科研入门过程中的笔记、练习、代码实践与进度记录。
 
-## Weekly Reports
+## 当前阶段
+
+**开发环境学习**
+
+## 学习笔记
+
+### 开发环境与服务器
+
+- [服务器基础](Notes/基础/服务器基础.md)
+- [SSH 与文件传输](Notes/基础/SSH与文件传输.md)
+- [Linux 基础](Notes/基础/Linux基础.md)
+- [Git 基础](Notes/基础/Git基础.md)
+
+## 当前进度
+
+- [x] A：通用开发环境与科研工具
+  - [x] A1. Python 基础
+  - [x] A2. Linux 基础
+  - [x] A3. Git / GitHub 版本管理
+  - [x] A4. 常用科研网站
+  - [x] A5. 科研与编程软件
+
+## 后续路线图
+
+- [ ] B：深度学习基础
+- [ ] C：PyTorch 基础与训练实践
+- [ ] D：经典计算机视觉任务与网络
+- [ ] E：视觉 SLAM 宏观基础
+- [ ] F：了解课题组研究方向并确定个人方向
+- [ ] G：方向经典论文 / 开山工作
+- [ ] H：方向代表性工作——方法与研究动机
+- [ ] I：方向代表性工作——实验与论证
+- [ ] J：开源代码定位、调试与实现理解
+- [ ] K：广泛检索、Zotero 文献库与研究脉络整理
+- [ ] L：实验范式、数据集、算力与指标总结
+- [ ] M：提出完整研究题目
+- [ ] N：阶段汇报与正式确定课题
+
+## 周记
+
+暂无。
