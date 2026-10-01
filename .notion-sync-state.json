@@ -6,32 +6,80 @@
       "title": "服务器基础",
       "section": "开发环境与服务器",
       "path": "Notes/基础/服务器基础.md",
-      "notion_last_edited": "2026-09-24T02:17:51.945Z",
-      "content_sha": "848f2eaf7078921be4b2bdcc3b86c23d9b5aeb51"
+      "notion_last_edited": "2026-09-27T17:08:57.204Z",
+      "content_sha": "6347762c2586f01e100accc08052398b49a3da55"
     },
     {
       "page_url": "https://app.notion.com/p/3e495109422d81a79ff8d4095582ee2b",
       "title": "SSH 与文件传输",
       "section": "开发环境与服务器",
       "path": "Notes/基础/SSH与文件传输.md",
-      "notion_last_edited": "2026-09-23T16:47:11.044Z",
-      "content_sha": "ae55975d99a93bdc544ef06d2ae07766eeee5d3c"
+      "notion_last_edited": "2026-09-27T17:10:37.301Z",
+      "content_sha": "1bee920ddb714956abdcf090f07c084a54aef665"
     },
     {
       "page_url": "https://app.notion.com/p/3e495109422d8133a9aed421855793a2",
       "title": "Linux 基础",
       "section": "开发环境与服务器",
       "path": "Notes/基础/Linux基础.md",
-      "notion_last_edited": "2026-09-23T16:47:10.189Z",
-      "content_sha": "6d7e3f93a4956a1a16009f140092908a4feb7336"
+      "notion_last_edited": "2026-09-27T17:09:25.742Z",
+      "content_sha": "a3b8cb910ff25df3a4f0bee7f5add9ca8e6c1c5e"
     },
     {
       "page_url": "https://app.notion.com/p/3e595109422d80a6a231cbc4feb2dbf9",
       "title": "Git 基础",
       "section": "开发环境与服务器",
       "path": "Notes/基础/Git基础.md",
-      "notion_last_edited": "2026-09-24T07:19:18.151Z",
-      "content_sha": "97f6df5d8fe9b19608bf76eef6d716cbb9b729b6"
+      "notion_last_edited": "2026-09-27T17:11:03.735Z",
+      "content_sha": "1b8d9e64ec0ec7ef4f1eb016f095ece5fcaf5edb"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e495109422d81d8bf44f3e97ead1dd9",
+      "title": "Conda 与 tmux",
+      "section": "开发环境与服务器",
+      "path": "Notes/基础/Conda与tmux.md",
+      "notion_last_edited": "2026-09-27T17:11:14.111Z",
+      "content_sha": "1b6418331f84ffa99ae45d22521f517c6979bd6b"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e895109422d8157b119c68488e47e6a",
+      "title": "01_机器学习概述",
+      "section": "深度学习",
+      "path": "01_深度学习基础/01_机器学习概述.md",
+      "notion_last_edited": "2026-09-27T17:08:32.360Z",
+      "content_sha": "d2cae4345e06fafe6b0d6020154e2df6dcf9b087"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e695109422d802ba0a7f44c3890b422",
+      "title": "02_线性回归",
+      "section": "深度学习",
+      "path": "01_深度学习基础/02_线性回归.md",
+      "notion_last_edited": "2026-09-27T17:07:56.608Z",
+      "content_sha": "5e24ed72d2230036a8382ad325432de63d8435b6"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e995109422d81439e5bdc3b707747e6",
+      "title": "03_多元线性回归",
+      "section": "深度学习",
+      "path": "01_深度学习基础/03_多元线性回归.md",
+      "notion_last_edited": "2026-09-28T07:56:05.867Z",
+      "content_sha": "dfd30e85eb135e03fe0dc6183f26ebec72c8b730"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3ea95109422d81e682cedaa45a822b57",
+      "title": "04_逻辑回归",
+      "section": "深度学习",
+      "path": "01_深度学习基础/04_逻辑回归.md",
+      "notion_last_edited": "2026-09-29T09:30:05.396Z",
+      "content_sha": "94521f2948c2b97f610db14403ebc990c7936a0e"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3ea95109422d81eebaa5f698e3c5ced2",
+      "title": "05_正则化与过拟合",
+      "section": "深度学习",
+      "path": "01_深度学习基础/05_正则化与过拟合.md",
+      "notion_last_edited": "2026-09-29T09:33:43.136Z",
+      "content_sha": "074e22e28c588b105509511808f774dfc8f5928e"
     }
   ]
 }
