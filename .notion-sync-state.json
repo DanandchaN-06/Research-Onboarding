@@ -23,7 +23,7 @@
       "section": "开发环境与服务器",
       "path": "Notes/基础/Linux基础.md",
       "notion_last_edited": "2026-09-27T17:09:25.742Z",
-      "content_sha": "a3b8cb910ff25df3a4f0bee7f5add9ca8e6c1c5e"
+      "content_sha": "1eec735e4bd86a4c0a2b587c274cdfa48a1ed12b"
     },
     {
       "page_url": "https://app.notion.com/p/3e595109422d80a6a231cbc4feb2dbf9",
@@ -55,7 +55,7 @@
       "section": "深度学习",
       "path": "01_深度学习基础/02_线性回归.md",
       "notion_last_edited": "2026-10-01T03:16:18.130Z",
-      "content_sha": "5e24ed72d2230036a8382ad325432de63d8435b6"
+      "content_sha": "ad28b6afff6268581a66c679b1d408b83a2a2cfb"
     },
     {
       "page_url": "https://app.notion.com/p/3e995109422d81439e5bdc3b707747e6",
@@ -63,7 +63,7 @@
       "section": "深度学习",
       "path": "01_深度学习基础/03_多元线性回归.md",
       "notion_last_edited": "2026-10-01T03:16:18.821Z",
-      "content_sha": "dfd30e85eb135e03fe0dc6183f26ebec72c8b730"
+      "content_sha": "3ecefbcf5634362107d1de4202ca589f0604f4cf"
     },
     {
       "page_url": "https://app.notion.com/p/3ea95109422d81e682cedaa45a822b57",
@@ -71,7 +71,7 @@
       "section": "深度学习",
       "path": "01_深度学习基础/04_逻辑回归.md",
       "notion_last_edited": "2026-10-01T03:16:19.706Z",
-      "content_sha": "94521f2948c2b97f610db14403ebc990c7936a0e"
+      "content_sha": "473f32944fda55ca7998a354067357f9b06126f6"
     },
     {
       "page_url": "https://app.notion.com/p/3ea95109422d81eebaa5f698e3c5ced2",
@@ -79,7 +79,39 @@
       "section": "深度学习",
       "path": "01_深度学习基础/05_正则化与过拟合.md",
       "notion_last_edited": "2026-10-01T03:16:20.428Z",
-      "content_sha": "074e22e28c588b105509511808f774dfc8f5928e"
+      "content_sha": "dc548089bcaf4888a7f60f0e4cbe2cca7af080d5"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e495109422d818ba304f27054c56015",
+      "title": "基础拾遗",
+      "section": "基础拾遗",
+      "path": "Notes/基础拾遗/README.md",
+      "notion_last_edited": "2026-09-27T17:27:44.083Z",
+      "content_sha": "1263742f200f5fcd9cb4af9f112c642b7ced1412"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e495109422d81d49c5fd6ba2155908e",
+      "title": "命令行、终端与 Shell｜基础辨析",
+      "section": "基础拾遗",
+      "path": "Notes/基础拾遗/命令行、终端与Shell基础辨析.md",
+      "notion_last_edited": "2026-09-23T15:50:14.168Z",
+      "content_sha": "383594e0bbe81663ed6fcb441e053a577faca2ac"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e895109422d8186a201fa13e09d23ff",
+      "title": "Numpy 基础语法",
+      "section": "基础拾遗",
+      "path": "Notes/基础拾遗/Numpy基础语法.md",
+      "notion_last_edited": "2026-09-27T17:36:52.732Z",
+      "content_sha": "07c4aa1eaf1942d0b4c80201a96b8ef3ba540dd1"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3e995109422d81ecb3cafebbd8aab3aa",
+      "title": "scikit-learn 速查笔记",
+      "section": "基础拾遗",
+      "path": "Notes/基础拾遗/scikit-learn速查笔记.md",
+      "notion_last_edited": "2026-09-28T16:36:20.491Z",
+      "content_sha": "45071ce861d9d3c6f375caac68285b9a36f868ff"
     }
   ]
 }

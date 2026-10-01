@@ -513,4 +513,4 @@ CUDA_VISIBLE_DEVICES=0 python train.py
 | `Ctrl + Shift + V` | 在 ssh 会话里粘贴 |
 | 上下方向键 | 浏览历史命令 |
 
-> 基础常识补充：[基础拾遗](https://app.notion.com/p/3e495109422d81d49c5fd6ba2155908e)。这里仅保留引用，不纳入服务器学习主线。
+> 基础常识补充：[命令行、终端与 Shell｜基础辨析](../基础拾遗/命令行、终端与Shell基础辨析.md)。这里仅保留引用，不纳入服务器学习主线。
