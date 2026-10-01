@@ -38,7 +38,7 @@
       "title": "Conda 与 tmux",
       "section": "开发环境与服务器",
       "path": "Notes/基础/Conda与tmux.md",
-      "notion_last_edited": "2026-09-27T17:11:14.111Z",
+      "notion_last_edited": "2026-10-01T03:16:21.242Z",
       "content_sha": "1b6418331f84ffa99ae45d22521f517c6979bd6b"
     },
     {
@@ -46,7 +46,7 @@
       "title": "01_机器学习概述",
       "section": "深度学习",
       "path": "01_深度学习基础/01_机器学习概述.md",
-      "notion_last_edited": "2026-09-27T17:08:32.360Z",
+      "notion_last_edited": "2026-10-01T03:16:17.422Z",
       "content_sha": "d2cae4345e06fafe6b0d6020154e2df6dcf9b087"
     },
     {
@@ -54,7 +54,7 @@
       "title": "02_线性回归",
       "section": "深度学习",
       "path": "01_深度学习基础/02_线性回归.md",
-      "notion_last_edited": "2026-09-27T17:07:56.608Z",
+      "notion_last_edited": "2026-10-01T03:16:18.130Z",
       "content_sha": "5e24ed72d2230036a8382ad325432de63d8435b6"
     },
     {
@@ -62,7 +62,7 @@
       "title": "03_多元线性回归",
       "section": "深度学习",
       "path": "01_深度学习基础/03_多元线性回归.md",
-      "notion_last_edited": "2026-09-28T07:56:05.867Z",
+      "notion_last_edited": "2026-10-01T03:16:18.821Z",
       "content_sha": "dfd30e85eb135e03fe0dc6183f26ebec72c8b730"
     },
     {
@@ -70,7 +70,7 @@
       "title": "04_逻辑回归",
       "section": "深度学习",
       "path": "01_深度学习基础/04_逻辑回归.md",
-      "notion_last_edited": "2026-09-29T09:30:05.396Z",
+      "notion_last_edited": "2026-10-01T03:16:19.706Z",
       "content_sha": "94521f2948c2b97f610db14403ebc990c7936a0e"
     },
     {
@@ -78,7 +78,7 @@
       "title": "05_正则化与过拟合",
       "section": "深度学习",
       "path": "01_深度学习基础/05_正则化与过拟合.md",
-      "notion_last_edited": "2026-09-29T09:33:43.136Z",
+      "notion_last_edited": "2026-10-01T03:16:20.428Z",
       "content_sha": "074e22e28c588b105509511808f774dfc8f5928e"
     }
   ]
