@@ -45,40 +45,40 @@
       "page_url": "https://app.notion.com/p/3e895109422d8157b119c68488e47e6a",
       "title": "01_机器学习概述",
       "section": "深度学习",
-      "path": "01_深度学习基础/01_机器学习概述.md",
-      "notion_last_edited": "2026-10-01T03:16:17.422Z",
+      "path": "Notes/01_深度学习基础/01_机器学习概述.md",
+      "notion_last_edited": "2026-10-01T04:10:07.336Z",
       "content_sha": "d2cae4345e06fafe6b0d6020154e2df6dcf9b087"
     },
     {
       "page_url": "https://app.notion.com/p/3e695109422d802ba0a7f44c3890b422",
       "title": "02_线性回归",
       "section": "深度学习",
-      "path": "01_深度学习基础/02_线性回归.md",
-      "notion_last_edited": "2026-10-01T03:16:18.130Z",
+      "path": "Notes/01_深度学习基础/02_线性回归.md",
+      "notion_last_edited": "2026-10-01T04:10:08.259Z",
       "content_sha": "ad28b6afff6268581a66c679b1d408b83a2a2cfb"
     },
     {
       "page_url": "https://app.notion.com/p/3e995109422d81439e5bdc3b707747e6",
       "title": "03_多元线性回归",
       "section": "深度学习",
-      "path": "01_深度学习基础/03_多元线性回归.md",
-      "notion_last_edited": "2026-10-01T03:16:18.821Z",
+      "path": "Notes/01_深度学习基础/03_多元线性回归.md",
+      "notion_last_edited": "2026-10-01T04:10:09.077Z",
       "content_sha": "3ecefbcf5634362107d1de4202ca589f0604f4cf"
     },
     {
       "page_url": "https://app.notion.com/p/3ea95109422d81e682cedaa45a822b57",
       "title": "04_逻辑回归",
       "section": "深度学习",
-      "path": "01_深度学习基础/04_逻辑回归.md",
-      "notion_last_edited": "2026-10-01T03:16:19.706Z",
+      "path": "Notes/01_深度学习基础/04_逻辑回归.md",
+      "notion_last_edited": "2026-10-01T04:10:09.787Z",
       "content_sha": "473f32944fda55ca7998a354067357f9b06126f6"
     },
     {
       "page_url": "https://app.notion.com/p/3ea95109422d81eebaa5f698e3c5ced2",
       "title": "05_正则化与过拟合",
       "section": "深度学习",
-      "path": "01_深度学习基础/05_正则化与过拟合.md",
-      "notion_last_edited": "2026-10-01T03:16:20.428Z",
+      "path": "Notes/01_深度学习基础/05_正则化与过拟合.md",
+      "notion_last_edited": "2026-10-01T04:10:10.550Z",
       "content_sha": "dc548089bcaf4888a7f60f0e4cbe2cca7af080d5"
     },
     {
