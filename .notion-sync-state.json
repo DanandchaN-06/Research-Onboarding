@@ -82,6 +82,46 @@
       "content_sha": "dc548089bcaf4888a7f60f0e4cbe2cca7af080d5"
     },
     {
+      "page_url": "https://app.notion.com/p/3f295109422d81a580d2d619b59604c4",
+      "title": "06_神经网络基础",
+      "section": "深度学习",
+      "path": "Notes/01_深度学习基础/06_神经网络基础.md",
+      "notion_last_edited": "2026-10-10T15:38:24.711Z",
+      "content_sha": "ea65b0574ddcfb7194a7bfc80f584d92c60bf2e5"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3f595109422d81888b94dc7d5d371762",
+      "title": "07_前向传播与反向传播",
+      "section": "深度学习",
+      "path": "Notes/01_深度学习基础/07_前向传播与反向传播.md",
+      "notion_last_edited": "2026-10-10T15:37:41.985Z",
+      "content_sha": "a5defdddfe3f42351a5db56064815b1b2085149e"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3f595109422d8160a2dcde1392819c92",
+      "title": "08_损失函数",
+      "section": "深度学习",
+      "path": "Notes/01_深度学习基础/08_损失函数.md",
+      "notion_last_edited": "2026-10-10T15:37:41.985Z",
+      "content_sha": "d1d62a4a66ea82bb401c2068f924de1f9f291a9d"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3f595109422d81118de8eafe27a0cb75",
+      "title": "09_优化方法",
+      "section": "深度学习",
+      "path": "Notes/01_深度学习基础/09_优化方法.md",
+      "notion_last_edited": "2026-10-10T15:37:41.985Z",
+      "content_sha": "ff829271b0956f5d70779d322dba50b7f37563ab"
+    },
+    {
+      "page_url": "https://app.notion.com/p/3f595109422d81ff9d8acdf0d03cd6a9",
+      "title": "10_训练技巧",
+      "section": "深度学习",
+      "path": "Notes/01_深度学习基础/10_训练技巧.md",
+      "notion_last_edited": "2026-10-10T15:37:41.985Z",
+      "content_sha": "add2d5b87c4f33049a68b629418cae3cfff25b3c"
+    },
+    {
       "page_url": "https://app.notion.com/p/3ec95109422d8149b517c0903b1b5c95",
       "title": "01_计算机视觉与图像分类",
       "section": "计算机视觉",
